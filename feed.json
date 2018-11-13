@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test WEEB",
+    "description": "",
+    "home_page_url": "https://wojtohtc.github.io/pages",
+    "feed_url": "https://wojtohtc.github.io/pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "tester."
+    },
+    "items": [
+        {
+            "id": "https://wojtohtc.github.io/pages/test-1.html",
+            "url": "https://wojtohtc.github.io/pages/test-1.html",
+            "title": "test 1",
+            "image": "https://wojtohtc.github.io/pages/media/posts/1/pixel-food.jpg",
+            "author": {
+                "name": "tester."
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-13T23:57:46+01:00",
+            "date_modified": "2018-11-13T23:57:46+01:00"
+        }
+    ]
+}

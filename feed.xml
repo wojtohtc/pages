@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Test WEEB</title>
+    <link href="https://wojtohtc.github.io/pages/feed.xml" rel="self" />
+    <link href="https://wojtohtc.github.io/pages" />
+    <updated>2018-11-13T23:58:32+01:00</updated>
+    <author>
+        <name>tester.</name>
+    </author>
+    <id>https://wojtohtc.github.io/pages</id>
+
+    <entry>
+        <title>test 1</title>
+        <author>
+            <name>tester.</name>
+        </author>
+        <link href="https://wojtohtc.github.io/pages/test-1.html"/>
+        <id>https://wojtohtc.github.io/pages/test-1.html</id>
+
+        <updated>2018-11-13T23:57:46+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
